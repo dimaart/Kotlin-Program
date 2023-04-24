@@ -16,5 +16,4 @@ repository. My program is created in Kotlin language.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Github] (https://github.com/dimaart/Kotlin-Program)
